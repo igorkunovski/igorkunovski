@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Igor
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java programmer course in Geek Brains university
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning Developer course in Geek Brains university
 - 💞️ I’m looking to collaborate on practise position in Java programming
 - 📫 How to reach me igork110@mail.ru
 
